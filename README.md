@@ -6,8 +6,7 @@ CS + Data Science @ VIT | Student
 
 ## About
 
-I like building things close to the metal — file systems, transaction systems, concurrent runtimes. Currently grinding DSA and exploring compilers.
-
+I like core CS, transaction systems, concurrency, compilers, etc 
 - 🔨 Building: [ordin](https://github.com/mundano17/ordin) — a rule-based file organizer with WAL-backed transactions
 - 📖 Learning: DSA, Compiler Design
 - 🎯 Interested in: Systems programming, Backend, Distributed Systems
