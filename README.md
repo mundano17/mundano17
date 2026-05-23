@@ -1,79 +1,43 @@
+# Purushotham
 
-# Hi there 👋 I'm mundano
-
-Developer | Student | Open Source Enthusiast
-
----
-
-## 🧑‍💻 About Me
-
-- 🌱 Currently learning: Data Structures and Algorithms , Machine Learning.
-- 🤔 Interested in: Machine Learning and Backend.
+CS + Data Science @ VIT | Student 
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### Languages
+I like building things close to the metal — file systems, transaction systems, concurrent runtimes. Currently grinding DSA and exploring compilers.
 
-Python
-JavaScript
-HTML, CSS ( If you consider these as a Programming Language)
-Java
-C++
-
-
-### Frameworks & Libraries
-
-```
-ReactJS
-FastAPI
-Express
-Tailwind CSS
-```
-
-### Tools
-
-```
-MacOS
-Zed
-```
+- 🔨 Building: [ordin](https://github.com/mundano17/ordin) — a rule-based file organizer with WAL-backed transactions
+- 📖 Learning: DSA, Compiler Design
+- 🎯 Interested in: Systems programming, Backend, Distributed Systems
 
 ---
 
-## 📂 Featured Projects
+## Tech Stack
 
-### 🚀 News Deduplicator and Ranking
-
-The Project clusters similar news articles and ranks them, the top ranker is shown and the rest is removed, the unique stories is appended to this list. In the end, it gives a deduped and ranked list of news artciles.
-
-* 🔗 Repo: [Github Repo Link](https://github.com/mundano17/news-deduplicator-ranking)
-* 🛠️ Tech: Python, Pydantic and Scikit Learn
+**Languages:** Go, Python, C++, JavaScript, Java  
+**Frameworks:** FastAPI, ReactJS, Express  
+**Concepts:** Concurrent systems, WAL, Worker pools, REST APIs
 
 ---
 
-### 🚀 YATC
+## Projects
 
-The project aims to do zero-shot-classification of news sources.This exists mainly for the purpose of data mining through RSS / some other news api.
+### [Ordin](https://github.com/mundano17/ordin)
+Rule-based file organizer with a TUI. Concurrent executor, WAL-backed operation logging, soft deletes.
+`Go` `bubbletea` `errgroup`
 
-* 🔗 Repo: [Github Repo Link](https://github.com/mundano17/yatc)
-* 🛠️ Tech: Python, Pydantic and Scikit Learn
+### [News Deduplicator](https://github.com/mundano17/news-deduplicator-ranking)
+Clusters and ranks news articles, deduplicates similar stories.
+`Python` `scikit-learn` `Pydantic`
 
----
-
-
-## 📫 Contact Me
-
-* Email: yallurupurushothamreddy006@gmail.com
-
----
-
-## ☕ Support Me
-
-If you like my work, consider supporting me:
-
-* ⭐ Star my repositories
-* 🤝 Collaborate on projects
-* 💡 Share feedback
+### [YATC](https://github.com/mundano17/yatc)
+Zero-shot classification of news sources for data mining via RSS.
+`Python` `scikit-learn` `Pydantic`
 
 ---
+
+## Contact
+
+yallurupurushothamreddy006@gmail.com
